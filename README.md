@@ -30,8 +30,8 @@ How should target acres and category mix vary by KDL lifecycle while supporting 
 
 ## Files
 
-- Excel analysis workbook: excel/KDL_Target_Setting_Analysis_with_Workings.xlsx
+- [Excel analysis workbook](KDL_Target_Setting_Analysis_with_Workings.xlsx)
 
 ## Interpretation and limitations
 
-Values in the workbook are planning-model outputs, not actual sales outcomes. Category-level reference averages are unweighted and are not realized, sales-weighted margins. Crop-season acreage lines can overlap. The workbook excludes personal contact details, location-level operational records, and row-level product prices, but contains aggregated internal planning assumptions. Confirm that those assumptions are approved for public release before publishing this repository.
+Values in the workbook are planning-model outputs, not actual sales outcomes. Category-level reference averages are unweighted and are not realized, sales-weighted margins. Crop-season acreage lines can overlap. Personal contact details, location-level operational records, and row-level product prices are excluded; the workbook contains aggregated planning assumptions.
